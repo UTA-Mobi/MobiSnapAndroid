@@ -27,3 +27,6 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+# private keys stored in this file
+.sxml
